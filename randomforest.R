@@ -5,7 +5,7 @@ library(pROC)
 library(Metrics)
 
 # 讀取資料
-data = read.csv("C:/Users/b0983/OneDrive/桌面/類別資料分析/Bank/train.csv", encoding = "UTF-8")
+data = read.csv("your_path/Bank/train.csv", encoding = "UTF-8")
 
 # 檢查資料集結構
 str(data)
