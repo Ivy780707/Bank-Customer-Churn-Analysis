@@ -3,13 +3,13 @@
 ## Project Overview
 This project aims to analyze factors influencing customer churn in a banking dataset. By identifying key characteristics of high-risk customers, banks can take proactive measures to retain them. We built a **Random Forest model** to predict customer churn based on various demographic and financial attributes.
 
-## Project Structure
-📂 Bank-Churn-Prediction 
+## 📂Project Structure
+```bash
 ├── 📄 README.md # This documentation 
 ├── 📂 data # Dataset folder (dataset not included) 
 ├── 📄 model.py # Random Forest model training and evaluation 
 ├── 📄 requirements.txt # List of dependencies 
-
+```
 
 ## Dataset Information
 - **Source**: Kaggle - [Binary Classification with a Bank Churn Dataset](https://www.kaggle.com/competitions/playground-series-s4e1/overview)
