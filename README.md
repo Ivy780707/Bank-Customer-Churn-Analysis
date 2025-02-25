@@ -64,7 +64,7 @@ install.packages(c("readxl", "MASS", "randomForest", "pROC", "Metrics"))
 - **Incorporate additional customer data (e.g., transaction history) to enhance predictive power**.
 
 ## References
-1.Kaggle. Binary Classification with a Bank Churn Dataset (2024).
-2.Leo Breiman (2001). Random Forests. Machine Learning, 45(1), 5–32.
+1.Kaggle. Binary Classification with a Bank Churn Dataset (2024).  
+2.Leo Breiman (2001). Random Forests. Machine Learning, 45(1), 5–32.  
 3.Cohen, J. et al. (2003). Applied Multiple Regression/Correlation Analysis for the Behavioral Sciences. Lawrence Erlbaum.
 
