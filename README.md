@@ -6,7 +6,6 @@ This project aims to analyze factors influencing customer churn in a banking dat
 ## 📂Project Structure
 ```bash
 ├── 📄 README.md # This documentation 
-├── 📂 data # Dataset folder (dataset not included) 
 ├── 📄 model.py # Random Forest model training and evaluation 
 ├── 📄 requirements.txt # List of dependencies 
 ```
@@ -64,7 +63,7 @@ pip install -r requirements.txt
 - **Incorporate additional customer data (e.g., transaction history) to enhance predictive power**.
 
 ## References
-- **1.Kaggle. Binary Classification with a Bank Churn Dataset (2024).**
-- **2.Leo Breiman (2001). Random Forests. Machine Learning, 45(1), 5–32.**
-- **3.Cohen, J. et al. (2003). Applied Multiple Regression/Correlation Analysis for the Behavioral Sciences. Lawrence Erlbaum.**
+1.Kaggle. Binary Classification with a Bank Churn Dataset (2024).
+2.Leo Breiman (2001). Random Forests. Machine Learning, 45(1), 5–32.
+3.Cohen, J. et al. (2003). Applied Multiple Regression/Correlation Analysis for the Behavioral Sciences. Lawrence Erlbaum.
 
