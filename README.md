@@ -6,7 +6,7 @@ This project aims to analyze factors influencing customer churn in a banking dat
 ## 📂Project Structure
 ```bash
 ├── 📄 README.md # This documentation 
-├── 📄 model.py # Random Forest model training and evaluation 
+├── 📄 randomforest.r # Random Forest model training and evaluation 
 ├── 📄 requirements.txt # List of dependencies 
 ```
 
@@ -53,10 +53,11 @@ We used **Mean Decrease Gini** to measure the importance of features. The top in
 - However, **Random Forest requires more computational resources**. Banks can decide whether to prioritize accuracy or efficiency based on deployment needs.
 
 ## Environment Setup
-Ensure Python 3.8+ is installed and install dependencies using:
-```bash
-pip install -r requirements.txt
+Ensure R is installed and install dependencies using:
+```r
+install.packages(c("readxl", "MASS", "randomForest", "pROC", "Metrics"))
 ```
+
 ## Future Improvements
 - **Test Gradient Boosting models (e.g., XGBoost, LightGBM) for potential performance gains**.
 - **Explore deep learning approaches such as neural networks**.
