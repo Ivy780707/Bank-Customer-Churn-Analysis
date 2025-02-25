@@ -57,7 +57,7 @@ We used **Mean Decrease Gini** to measure the importance of features. The top in
 - 
 <p align="center">
     <img src="result/bank1.png" alt="Model Performance 1" width="45%">
-    <img src="result/bank2.png" alt="Model Performance 2" width="45%">
+    <img src="result/bank2.png" alt="Model Performance 2" width="50%">
 </p>
 
 
