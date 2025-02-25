@@ -28,7 +28,7 @@ Before training the model, we applied the following preprocessing steps:
 4. **Encoding**: Converted categorical variables into numerical format using `OneHotEncoder`.
 5. **Train-Test Split**: Randomly divided data into **80% training** and **20% testing**.
 
-## 🌲 Random Forest Model
+## Random Forest Model
 ### **Model Configuration**
 - **Number of Trees (`n_estimators`)**: 500
 - **Criterion**: Gini impurity
