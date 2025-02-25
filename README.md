@@ -55,7 +55,7 @@ We used **Mean Decrease Gini** to measure the importance of features. The top in
 - The **Random Forest model** achieved a higher **AUC score (0.8779)** compared to Logistic Regression (0.8327), indicating superior predictive performance.
 - However, **Random Forest requires more computational resources**. Banks can decide whether to prioritize accuracy or efficiency based on deployment needs.
 <p align="center">
-    <img src="result/bank1.png" alt="Model Performance 1" width="40%">
+    <img src="result/bank1.png" alt="Model Performance 1" width="45%">
     <img src="result/bank2.png" alt="Model Performance 2" width="45%">
 </p>
 
